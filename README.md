@@ -1,5 +1,7 @@
 # Deep Reinforcement Learning Algorithms with PyTorch
 
+常用：清华源：pip install jupyter -i https://pypi.tuna.tsinghua.edu.cn/simple
+
 ![Travis CI](https://travis-ci.org/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch.svg?branch=master)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
